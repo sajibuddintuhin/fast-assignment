@@ -1,0 +1,44 @@
+body{
+    display: flex;
+    font-family: 'Poppins', sans-serif;
+}
+.helping img{
+    width: 100%;
+      
+}
+.centered {
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: aliceblue;
+    font-size: 30px;
+}
+.in-need{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: aliceblue;
+    font-size: 30px;
+
+}
+.food-crisis{
+    position: absolute;
+    top: 70%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: rgb(180, 176, 221);
+    font-size: 25px;
+}
+#Donate{
+    position: absolute;
+    top: 90%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: rgb(234, 233, 247);
+    text-decoration: none;
+    border-radius: 9px;
+    background-color: orangered;
+    padding: 10px 40px;
+}
