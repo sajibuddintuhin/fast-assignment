@@ -1,6 +1,5 @@
 body{
-    display: flex;
-    font-family: 'Poppins', sans-serif;
+     font-family: 'Poppins', sans-serif;
 }
 .helping img{
     width: 100%;
@@ -41,4 +40,60 @@ body{
     border-radius: 9px;
     background-color: orangered;
     padding: 10px 40px;
+}
+.donate-today{
+    padding-top: 4%;
+    text-align: center;
+}
+.amount{
+    display:flex;
+    
+}
+#one-hundred{
+    margin-left: 10%;
+    padding: 20px 40px;
+    background-color: antiquewhite;
+    
+}
+#tow-hundred{
+    margin-left: 6%;
+    padding: 20px 40px;
+    background-color: antiquewhite;
+}
+#three-hundred{
+    margin-left: 6%;
+    padding: 20px 40px;
+    background-color: rgb(247, 153, 137);
+    color: red;
+    border-color: red;
+    border:solid 5px;
+}
+#one-thousand{
+    margin-left: 6%;
+    padding: 20px 40px;
+    background-color: antiquewhite;
+    
+}
+#five-thousand{
+    margin-left: 6%;
+    padding: 20px 40px;
+    background-color: antiquewhite;
+}
+.Other-Amount p{
+    text-align: center;
+    margin-top: 5%;
+    padding-bottom: 2%;
+    border-bottom:solid 2px; 
+    
+}
+.donate-now {
+    text-decoration: none;
+    text-align: center;
+    margin-top: 3%;
+}
+.donate-now a {
+    
+    padding: 10px 20px;
+    background-color: orange;
+    border-radius: 3px;
 }
