@@ -27,7 +27,7 @@ body{
     top: 70%;
     left: 50%;
     transform: translate(-50%, -50%);
-    color: rgb(180, 176, 221);
+    color: rgb(248, 249, 173);
     font-size: 25px;
 }
 #Donate{
@@ -47,7 +47,7 @@ body{
 }
 .amount{
     display:flex;
-    
+    padding-top: 4%;
 }
 #one-hundred{
     margin-left: 10%;
@@ -114,14 +114,14 @@ body{
     
 }
 #shelter{
-    background-color: aquamarine;
+    background-color: rgb(224, 243, 164);
    margin: 10%;
    padding: 5%;
    text-align: center;
 
 }
 #education{
-   background-color: aquamarine;
+   background-color: rgb(236, 155, 211);
    margin: 10%;
    padding: 5%;
    text-align: center;
@@ -140,4 +140,45 @@ body{
     margin-right: 80%;
     width: 40px;
     height: auto; 
+}
+.donation{
+    text-align: center;
+}
+.donation img{
+    width: 50%;
+    height: auto;
+}
+.to-contribute{
+    padding-top: 3%;
+    padding-bottom: 3%;
+}
+.Contribute{
+    text-decoration: none;
+    background-color: brown;
+    padding: 10px 30px;
+    border-radius: 5px;
+    color: aliceblue;
+}
+.Updates{
+    text-align: center;
+    padding-top: 4%;
+}
+.Updates h1{
+    font-size: 45px;
+}
+.email{
+    text-align: center;
+    padding: 5%;
+    
+}
+footer{
+    background-color: black;
+}
+footer h1{
+    color: brown;
+    text-align: center;
+}
+footer p{
+    color: aliceblue;
+    text-align: center;
 }
