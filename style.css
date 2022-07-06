@@ -97,3 +97,47 @@ body{
     background-color: orange;
     border-radius: 3px;
 }
+.donate-plan{
+    text-align: center;
+    padding-top: 10%;
+       
+}
+.donate-plan h1{
+    font-size: 40px;
+}
+#food{
+   background-color: aquamarine;
+   margin: 10%;
+   padding: 5%;
+   text-align: center;
+   
+    
+}
+#shelter{
+    background-color: aquamarine;
+   margin: 10%;
+   padding: 5%;
+   text-align: center;
+
+}
+#education{
+   background-color: aquamarine;
+   margin: 10%;
+   padding: 5%;
+   text-align: center;
+}
+.food-image{
+    margin-right: 80%;
+    width: 40px;
+    height: auto;   
+}
+.shelter-image{
+    margin-right: 80%;
+    width: 40px;
+    height: auto; 
+}
+.Frame-image{
+    margin-right: 80%;
+    width: 40px;
+    height: auto; 
+}
